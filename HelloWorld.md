@@ -1,23 +1,15 @@
 ## This is a markdown file
 
 This is Heading
-===============
+===================
 
-Some *italic*, sobe **bold**
+I will do some *italic* and **bold**
 
 Todo list:
-* create github repository
+* create github
 * create simple file
 * submit work
 
-
 Numbered list:
-1. type login and pass
-2. hit enter
-
-
-datasciencecoursera
-===================
-
-Data Science repository
-
+1. first
+2. second
